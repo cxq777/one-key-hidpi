@@ -4,6 +4,8 @@
 
 [English](README.md) | [中文](README-zh.md)
 
+1600x900 3200x1800 1440x810 2880x1620
+
  This script can simulate macOS HiDPI on a non-retina display, and have a "Native" Scaled in System Preferences.
 
 Some device have wake-up issue, script's second option may help, it inject a patched EDID, but another problem may exists here.
